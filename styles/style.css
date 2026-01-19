@@ -1,0 +1,106 @@
+
+
+.display-flex{
+    
+   display: flex;
+    
+}
+.navbar-content{
+
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    margin-left: 50px;
+}
+.nav-links{
+text-decoration: none;
+list-style: none;
+}
+
+.nav-item{
+    list-style: none;
+   text-decoration: none;
+    margin-right: 30px;
+}
+
+.navbar{
+  
+   justify-content: space-between;
+    align-items: center;
+    max-width: 1440px;
+    margin: 0 auto;
+}
+.school
+{
+    font-size: 24px;
+    font-weight: bold;
+    
+}
+.home{
+    color: orange;
+}
+.about{
+    color:skyblue ;
+}
+.facilities{
+    color:#05D4DF;
+}
+.admission{
+    color:#5D58EF;
+}
+.contact {
+    width: 220px;
+    height: 100px;
+    text-align: center;
+    color:#FFFFFF;
+    background-color: orange;
+    padding: 10px 20px;
+    border-radius: 5px;
+    margin-left:50px;
+}
+/* banner style */
+.banner{
+   
+    max-width: 1400px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 500px;
+    margin-top: 50px;
+    gap: 20px;
+    margin-left: 20px;
+
+}
+.banner-content{
+    max-width: 1400px;
+    margin-left:50px ;
+}
+
+.empowering{
+    color: orange;
+}
+.toward{
+    color: skyblue;
+}
+.banner-para{
+   
+    font-size:1rem;
+}
+.banner-content{
+   font-size: 1.5rem;
+}
+.banner-img{
+
+    max-width: 100%;
+    height: auto;
+    
+  
+}
+.banner-btn{
+    padding: 10px 20px;
+
+    background-color:black;
+    color: white;
+    font-size: 1rem;
+    text-decoration: none;
+}
